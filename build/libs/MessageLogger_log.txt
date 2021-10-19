@@ -1,0 +1,3 @@
+<my-tag> 2. first line</my-tag>
+<my-tag> 4. second line</my-tag>
+<my-tag> 6. third line</my-tag>

@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/application/build/
+/application/build/classes/java/main/
+/modulesSemiCustom/build/
+/modulesSemiCustom/build/classes/java/main/
