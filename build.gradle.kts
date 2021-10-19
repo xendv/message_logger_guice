@@ -47,4 +47,5 @@ task<JavaExec>("execute") {
     mainClass.set("message.logger.Main");
     classpath = java.sourceSets["main"].runtimeClasspath
     args("-c", "-f", "tag")
+    standardInput = System.`in`
 }

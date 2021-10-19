@@ -24,8 +24,6 @@ public class CustomLoggerFileFormatter extends Formatter{
         return buf.toString();
     }
 
-
-
     public void setTag(@NotNull String tag) {
         this.tag = tag;
     }
