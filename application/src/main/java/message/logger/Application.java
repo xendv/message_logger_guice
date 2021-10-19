@@ -14,7 +14,7 @@ public class Application {
                 messageProcessor.writeLog(input);
             }
         } catch (IllegalStateException | NoSuchElementException e) {
-            e.printStackTrace();
+            //e.printStackTrace();
         }
     }
 
